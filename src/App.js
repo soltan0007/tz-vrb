@@ -7,7 +7,7 @@ function App() {
       <div>
         <h1>My Articles</h1>
         <ArticleList />
-        <h2>External Articles</h2>
+        <h2>External Articles lol</h2>
         <ExternalArticles />
       </div>
   );
